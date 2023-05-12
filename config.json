@@ -6,5 +6,10 @@
     },
     "openai_key": "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",
 
-    "openai_api_base": "https://api.openai.com"
+    "openai_api_base": "https://api.openai.com",
+    "proxy": {
+        "enable": true,
+        "http": "127.0.0.1:7890",
+        "https": "127.0.0.1:7890"
+    }
 }
