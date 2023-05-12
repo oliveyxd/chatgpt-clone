@@ -2,7 +2,7 @@
     "site_config": {
         "host" : "0.0.0.0",
         "port" : 1338,
-        "debug": false
+        "debug": true
     },
     "openai_key": "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",
 
